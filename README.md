@@ -14,8 +14,3 @@ See security audit reports [here](./audits).
 
 This repository is offered under the Apache 2.0 license. See LICENSE for details.
 
-## Contact
-
-Discord - [Arbitrum](https://discord.com/invite/5KE54JwyTs)
-
-Twitter: [Arbitrum](https://twitter.com/arbitrum)
